@@ -1,0 +1,6 @@
+=== Training Metrics Summary ===
+Final Training Accuracy: 0.9878
+Final Validation Accuracy: 0.9937
+Final Test Accuracy: 0.9945
+Final Training Loss: 0.0426
+Final Validation Loss: 0.0202
